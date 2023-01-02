@@ -1,0 +1,6 @@
+.card-container {
+  border: 2px solid rgb(4, 69, 122);
+  background-color: rgb(4, 69, 110);
+  border-radius: 5px;
+  color: whitesmoke;
+}
